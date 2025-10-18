@@ -72,3 +72,5 @@ Query:
 SELECT product_name, category 
 FROM Products 
 ORDER BY category ASC;
+
+.
